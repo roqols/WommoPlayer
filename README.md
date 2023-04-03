@@ -27,7 +27,9 @@ objeto da musica que você deseja deletar, exemplo:
 
 
 Obs: Não baixar musica que tenha o caractere '''''''''''''
+
 Obs²: Sempre que baixar uma nova musica lembre-se de reiniciar a pagina
+
 Obs³: Se o player não estiver funcionando, verifique o script.js e apague o que precisar da variavel
 
 -----------------------------------------------
@@ -57,5 +59,7 @@ Modify the javascript file. In the first line, you will see the variable "Sounds
 {titulo:'Paradise', src:'Musics/Coldplay - Paradise (Official Video).mp3'},
 
 Note: Do not download songs with the character '''''''''''''
+
 Note²: Always remember to restart the page when you download a new song
+
 Note³: If the player is not working, check the script.js file and delete what is necessary from the variable
