@@ -1,4 +1,4 @@
-![texto alternativo da imagem](https://media.discordapp.net/attachments/763848072068988951/1061485389837258873/WOMMO.png)
+![texto alternativo da imagem](https://media.discordapp.net/attachments/763848072068988951/1092293972300410912/Sem_titulo.png)
 
 [PT-BR] 
 
