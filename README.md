@@ -30,7 +30,7 @@ objeto da musica que você deseja deletar, exemplo:
  {titulo:'Paradise', src:'Musics/Coldplay - Paradise (Official Video).mp3'},
 
 
-Obs: Não baixar musica que tenha o caractere '''''''''''''
+Obs: Não baixar musica que tenha pontuação no titulo
 
 Obs²: Sempre que baixar uma nova musica lembre-se de reiniciar a pagina
 
@@ -62,7 +62,7 @@ Modify the javascript file. In the first line, you will see the variable "Sounds
 
 {titulo:'Paradise', src:'Musics/Coldplay - Paradise (Official Video).mp3'},
 
-Note: Do not download songs with the character '''''''''''''
+Note: Do not download music that has punctuation in the title
 
 Note²: Always remember to restart the page when you download a new song
 
