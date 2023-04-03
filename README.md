@@ -1,4 +1,7 @@
+# White theme
 ![texto alternativo da imagem](https://media.discordapp.net/attachments/1075565638938009653/1092278486053421167/Captura_de_tela_2023-04-02_-_23.44.08.png?width=900&height=500)
+
+# Black theme
 ![texto alternativo da imagem](https://media.discordapp.net/attachments/1075565638938009653/1092278486347038770/Captura_de_tela_2023-04-02_-_23.44.04.png?width=900&height=500)
 
 [PT-BR] 
