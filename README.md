@@ -1,4 +1,4 @@
-![texto alternativo da imagem](caminho/para/a/imagem.png)
+![texto alternativo da imagem](https://media.discordapp.net/attachments/763848072068988951/1061485389837258873/WOMMO.png)
 
 [PT-BR] 
 
